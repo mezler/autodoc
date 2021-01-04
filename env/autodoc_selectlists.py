@@ -20,7 +20,7 @@ from selenium.webdriver.common.by import By
 geckodriver_autoinstaller.install()
 
 optionsFox = Options()
-optionsFox.headless = True
+optionsFox.headless = False
 driverFox = webdriver.Firefox(options=optionsFox)
 print ("Headless Firefox Initialized")
 
@@ -42,6 +42,7 @@ print ("Headless Firefox Initialized")
 
 dict = {}
 arr = []
+
 
 # BEJELENTKEZÉS -- DRIVER
 # with open("urllist4.txt", "a") as myfile:
@@ -73,7 +74,10 @@ def urlspan( url ):
     for optgroup in og:
         for opt in optgroup.find_elements_by_tag_name("option"):
             print ( opt.text )
-            carlist.append( opt.text )
+
+            # with open("carlist.txt", "a") as carlist:
+            #     carlist.write( opt.text + "\n" )
+            # carlist.close
 
             opt.click()
 
@@ -83,10 +87,36 @@ def urlspan( url ):
            
             for optgroup1 in og1:
                 for opt1 in optgroup1.find_elements_by_tag_name("option"):
-                    print ( opt1.text )
-                    modellist.append( opt1.text )
-                    for optgroup2 in og1:
-               
+                    print ( '\033[91m' + "->" + '\033[0m'  + opt1.text )
+                    
+                    # with open("modellist.txt", "a") as modellist:
+                    #     modellist.write( opt1.text + "\n" )
+                    # modellist.close
+
+                    # modellist.append( opt1.text )
+
+                    opt1.click()
+
+                    WebDriverWait(driverFox,10).until(EC.visibility_of_all_elements_located((By.XPATH, '//option')));
+                    og2 = driverFox.find_elements_by_xpath("//*[@id='form_car_id']/optgroup")
+                    for optgroup2 in og2:
+                        for opt2 in optgroup2.find_elements_by_tag_name("option"):
+                            print ('\x1b[6;30;42m' + "--->" + '\x1b[0m' + opt2.text )
+                            with open("triples1.txt", "a") as triples:
+                                triples.write( opt.text + ";" + opt1.text + ";" + opt2.text + "\n" )
+                            triples.close
+                            # typelist.append( opt2.text )
+                            # opt2.click()
+                            # driverFox.find_element_by_class_name('search_button').click()
+
+                            # wait for the page to load
+                            # wait = WebDriverWait(driver, 10)
+                            # wait.until(EC.title_contains("Gmail"))
+                            # driverFox.implicitly_wait(3)
+
+                            # print ('\x1b[6;30;42m' + "Current URL : " + '\x1b[0m' + driverFox.current_url )
+                            # driverFox.back
+                            # driverFox.implicitly_wait(3)
 
 
     # og1 = driverFox.find_elements_by_xpath("//*[@id='form_model_id']/optgroup")
@@ -105,12 +135,20 @@ def urlspan( url ):
     #         print ( opt2.text )
     #         typelist.append( opt2.text )
       
-            
+
+ 
+# file.write(“Hello World”) 
+# file.write(“This is our new text file”) 
+# file.write(“and this is another line.”) 
+# file.write(“Why? Because we can.”) 
+ 
+# file.close() 
+
 
 with open("urllist3.txt") as file_in:
     for line in file_in:
         urlspan(line)
-        exit()
+        exit()  # mehet az exit, mert elég az  első url-t betölteni, hogy a típusválasztékoról tömbök készülhessenek
 
 
 
