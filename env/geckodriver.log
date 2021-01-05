@@ -3475,3 +3475,366 @@ JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.h
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1608568931867	geckodriver	INFO	Listening on 127.0.0.1:54393
+1608568932878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilenv7oIC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608568936641	Marionette	INFO	Listening on port 54406
+1608568936681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1608568939502&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1608568939502&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1608568939502&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1608568939502&cs=null, line 2: WebGL context was lost.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1608569196940	geckodriver	INFO	Listening on 127.0.0.1:54594
+1608569197952	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilehBrjLK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608569201056	Marionette	INFO	Listening on port 54606
+1608569201095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1608569207574&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1608569207574&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1608569207574&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1608569207574&cs=null, line 2: WebGL context was lost.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1609733045796	geckodriver	INFO	Listening on 127.0.0.1:50701
+1609733046813	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofile4llpnv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609733050781	Marionette	INFO	Listening on port 50718
+1609733050881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733053411&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733053411&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733053411&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733053411&cs=null, line 2: WebGL context was lost.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1609733654815	geckodriver	INFO	Listening on 127.0.0.1:53703
+1609733655824	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileUKGpL7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1609733659478	Marionette	INFO	Listening on port 53718
+1609733659502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733663103&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733663103&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733663103&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733663103&cs=null, line 2: WebGL context was lost.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609733757128	geckodriver	INFO	Listening on 127.0.0.1:54305
+1609733758139	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilesXP6z0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609733762355	Marionette	INFO	Listening on port 54322
+1609733781830	geckodriver	INFO	Listening on 127.0.0.1:54464
+1609733782844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileQkgsaR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609733786649	Marionette	INFO	Listening on port 54481
+1609733786736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733789135&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733789135&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733789135&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609733789135&cs=null, line 2: WebGL context was lost.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1609734034596	Marionette	INFO	Stopped listening on port 54322
+1609734042487	geckodriver	INFO	Listening on 127.0.0.1:55812
+1609734043499	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilepe22Af"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734046514	Marionette	INFO	Listening on port 55828
+1609734046545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734049443&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734049443&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734049443&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734049443&cs=null, line 2: WebGL context was lost.
+1609734181371	geckodriver	INFO	Listening on 127.0.0.1:56633
+1609734182377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileV7HFKQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734186735	Marionette	INFO	Listening on port 56649
+1609734186794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734189842&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734189842&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734189842&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734189842&cs=null, line 2: WebGL context was lost.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1609734410178	geckodriver	INFO	Listening on 127.0.0.1:57818
+1609734411191	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileFgCP9j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734414710	Marionette	INFO	Listening on port 57833
+1609734414943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734417694&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734417694&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734417694&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734417694&cs=null, line 2: WebGL context was lost.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609734867122	geckodriver	INFO	Listening on 127.0.0.1:60026
+1609734868148	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilePx5nyc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609734872347	Marionette	INFO	Listening on port 60042
+1609734872463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734875273&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734875273&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734875273&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609734875273&cs=null, line 2: WebGL context was lost.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1609735194503	geckodriver	INFO	Listening on 127.0.0.1:61712
+1609735195520	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileMt6yX1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609735200785	Marionette	INFO	Listening on port 61727
+1609735201071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735203692&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735203692&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735203692&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735203692&cs=null, line 2: WebGL context was lost.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1609735285617	geckodriver	INFO	Listening on 127.0.0.1:62257
+1609735286634	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileqqPM1c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609735290393	Marionette	INFO	Listening on port 62272
+1609735290457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735294541&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735294541&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735294541&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735294541&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735339136&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735339136&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735339136&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735339136&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735355993&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735355993&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735355993&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735355993&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735389823&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735389823&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735389823&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735389823&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735392186&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735392186&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735392186&cs=16756856846133497841, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609735392186&cs=16756856846133497841, line 2: WebGL context was lost.
+1609736132372	geckodriver	INFO	Listening on 127.0.0.1:50144
+1609736133399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileP81SUz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609736138644	Marionette	INFO	Listening on port 50160
+1609736138903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609736141669&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609736141669&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609736141669&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609736141669&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609736199672&cs=8813711016703745344, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609736199672&cs=8813711016703745344, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609736199672&cs=8813711016703745344, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609736199672&cs=8813711016703745344, line 2: WebGL context was lost.
+1609737027431	Marionette	INFO	Stopped listening on port 62272
+1609737029703	Marionette	INFO	Stopped listening on port 50160
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609737033647	Marionette	INFO	Stopped listening on port 55828
+1609739730625	geckodriver	INFO	Listening on 127.0.0.1:52117
+1609739731634	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofile4OsHO4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609739736694	Marionette	INFO	Listening on port 52132
+1609739736811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609739742224&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609739742224&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609739742224&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609739742224&cs=null, line 2: WebGL context was lost.
+1609739964371	geckodriver	INFO	Listening on 127.0.0.1:53403
+1609739965459	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilejbdBLI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609739970017	Marionette	INFO	Listening on port 53418
+1609739970542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609739973113&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609739973113&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609739973113&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609739973113&cs=null, line 2: WebGL context was lost.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1609742715849	geckodriver	INFO	Listening on 127.0.0.1:49977
+1609742716857	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofile6GSbyf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609742722326	Marionette	INFO	Listening on port 49992
+1609742722552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609742726376&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609742726376&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609742726376&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609742726376&cs=null, line 2: WebGL context was lost.
+1609744227797	geckodriver	INFO	Listening on 127.0.0.1:57146
+1609744228799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileSolHE6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609744234922	Marionette	INFO	Listening on port 57165
+1609744235014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609744240241&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609744240241&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609744240241&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609744240241&cs=null, line 2: WebGL context was lost.
+1609744914384	geckodriver	INFO	Listening on 127.0.0.1:60511
+1609744915411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileKdhWNv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609744923616	Marionette	INFO	Listening on port 60526
+1609744923751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609744928700	Marionette	INFO	Stopped listening on port 52132
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609744930968&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609744930968&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609744930968&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609744930968&cs=null, line 2: WebGL context was lost.
+1609744936714	Marionette	INFO	Stopped listening on port 49992
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609744944629	Marionette	INFO	Stopped listening on port 57165
+1609762470667	geckodriver	INFO	Listening on 127.0.0.1:50725
+1609762471680	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilenhQmPg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1609762484220	geckodriver	INFO	Listening on 127.0.0.1:50861
+1609762485230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofile19DX4s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609762489259	Marionette	INFO	Listening on port 50876
+1609762489402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609762493984&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609762493984&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609762493984&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609762493984&cs=null, line 2: WebGL context was lost.
+1609762930555	geckodriver	INFO	Listening on 127.0.0.1:53053
+1609762931562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofile7IaZG3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609762938257	Marionette	INFO	Listening on port 53068
+1609762938365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609762942583&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609762942583&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609762942583&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609762942583&cs=null, line 2: WebGL context was lost.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609763244363	Marionette	INFO	Stopped listening on port 50876
+1609763247002	Marionette	INFO	Stopped listening on port 53068
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609763251494	Marionette	INFO	Stopped listening on port 60526
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609763263509	geckodriver	INFO	Listening on 127.0.0.1:54720
+1609763264475	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofile3ta4tW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609763269086	Marionette	INFO	Listening on port 54735
+1609763269129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609763273189&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609763273189&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609763273189&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609763273189&cs=null, line 2: WebGL context was lost.
+1609779817025	geckodriver	INFO	Listening on 127.0.0.1:55688
+1609779818056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileQo4FtR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609779823089	Marionette	INFO	Listening on port 55707
+1609779823159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609779825912&cs=null, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609779825912&cs=null, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609779825912&cs=null, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609779825912&cs=null, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609779825912&cs=null, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609779825912&cs=null, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609779825912&cs=null, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609779825912&cs=null, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1609780113128	geckodriver	INFO	Listening on 127.0.0.1:57307
+1609780114117	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilerUv9Lt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609780118483	Marionette	INFO	Listening on port 57324
+1609780118587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780121862&cs=null, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780121862&cs=null, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780121862&cs=null, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780121862&cs=null, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780121862&cs=null, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780121862&cs=null, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780121862&cs=null, line 2: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780121862&cs=null, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609780772362	geckodriver	INFO	Listening on 127.0.0.1:60470
+1609780773392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofileQeUtCX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609780780468	Marionette	INFO	Listening on port 60486
+1609780780590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780784996&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780784996&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780784996&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609780784996&cs=null, line 2: WebGL context was lost.
+1609782798913	Marionette	INFO	Stopped listening on port 60486
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609782799781	Marionette	INFO	Stopped listening on port 54735
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609782806374	geckodriver	INFO	Listening on 127.0.0.1:53543
+1609782807409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilezlce1c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609782811732	Marionette	INFO	Listening on port 53560
+1609782811843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609782817907&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609782817907&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609782817907&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609782817907&cs=null, line 2: WebGL context was lost.
+1609783862759	geckodriver	INFO	Listening on 127.0.0.1:58513
+1609783863817	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qk/_4p8m8n57t9cc2ch3k9zlkb00000gp/T/rust_mozprofilenztMhq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609783870734	Marionette	INFO	Listening on port 58529
+1609783871032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609783874203&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609783874203&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609783874203&cs=null, line 2: WebGL context was lost.
+JavaScript warning: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609783874203&cs=null, line 2: WebGL context was lost.
+JavaScript error: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609783874203&cs=null, line 2: Error: Failed to send 'click' request. Server response, status: 0, text: 
+JavaScript error: https://emitter.kilometrix.de/static/kmtx.js?h=www.autodoc.hu&c=1609783874203&cs=null, line 2: Error: Failed to send 'click' request. Server response, status: 0, text: 

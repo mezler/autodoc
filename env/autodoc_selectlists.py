@@ -22,6 +22,8 @@ geckodriver_autoinstaller.install()
 optionsFox = Options()
 optionsFox.headless = False
 driverFox = webdriver.Firefox(options=optionsFox)
+wait = WebDriverWait(driverFox, 10)
+
 print ("Headless Firefox Initialized")
 
 
@@ -73,6 +75,9 @@ def urlspan( url ):
     print ( "og hossz : " + str(len (og)) )
     for optgroup in og:
         for opt in optgroup.find_elements_by_tag_name("option"):
+            if ( opt.text == "VOLKSWAGEN" or opt.text == "OPEL" ):
+                continue
+
             print ( opt.text )
 
             # with open("carlist.txt", "a") as carlist:
@@ -97,14 +102,34 @@ def urlspan( url ):
 
                     opt1.click()
 
-                    WebDriverWait(driverFox,10).until(EC.visibility_of_all_elements_located((By.XPATH, '//option')));
+                    WebDriverWait( driverFox, 20).until( EC.visibility_of_all_elements_located((By.XPATH, '//option')) );
+                    
+                    # driverFox.implicitly_wait(2)
+
+
+
+                    # try:
+                    #     element = WebDriverWait(driver, 10).until(
+                    #         EC.presence_of_all_elements_located
+                    #         EC.presence_of_element_located((By.CSS_SELECTOR, "option[value='123']"))
+                    #     )
+                    #     print("Option loaded")
+                    # except TimeoutException:
+                    #     print("Time exceeded!")
+
+
+
+
+
                     og2 = driverFox.find_elements_by_xpath("//*[@id='form_car_id']/optgroup")
                     for optgroup2 in og2:
                         for opt2 in optgroup2.find_elements_by_tag_name("option"):
                             print ('\x1b[6;30;42m' + "--->" + '\x1b[0m' + opt2.text )
-                            with open("triples1.txt", "a") as triples:
+                            with open("triples2.txt", "a") as triples:
                                 triples.write( opt.text + ";" + opt1.text + ";" + opt2.text + "\n" )
                             triples.close
+
+
                             # typelist.append( opt2.text )
                             # opt2.click()
                             # driverFox.find_element_by_class_name('search_button').click()
